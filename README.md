@@ -30,21 +30,6 @@ Instituto Pereira Passos, por bairro do município do Rio de Janeiro).
 
 4. O navegador abrirá automaticamente em `http://localhost:8501`.
 
-> Importante: o arquivo `Mulheres.csv` precisa estar na mesma pasta que `app.py`.
-
-## Como publicar gratuitamente (Streamlit Community Cloud)
-
-1. Crie um repositório no GitHub e suba os arquivos `app.py`, `requirements.txt`
-   e `Mulheres.csv`.
-2. Acesse [share.streamlit.io](https://share.streamlit.io) e faça login com sua
-   conta do GitHub.
-3. Clique em **"New app"**, selecione o repositório, a branch (`main`) e o
-   arquivo principal (`app.py`).
-4. Clique em **Deploy**. Em poucos minutos o Streamlit gera uma URL pública
-   (algo como `https://seu-usuario-nome-do-repo.streamlit.app`) que pode ser
-   usada como link de comprovação da aplicação do projeto junto à comunidade
-   local, no item "Resultados Esperados/Obtidos" do trabalho.
-
 ## Estrutura de arquivos
 
 ```
