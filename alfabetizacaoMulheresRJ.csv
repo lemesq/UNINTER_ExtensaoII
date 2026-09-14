@@ -1,0 +1,167 @@
+bairro;codbairro;codbnum;regiao_adm;codra;ra;rp;cod_rp;ap;area_plane;Pessoa responsável pelo domicílio, Sexo feminino, 15 a 29 anos, Morador sabe ler e escrever;Pessoa responsável pelo domicílio, Sexo feminino, 15 a 29 anos, Morador não sabe ler e escrever;Pessoa responsável pelo domicílio, Sexo feminino, 30 a 59 anos, Morador sabe ler e escrever;Pessoa responsável pelo domicílio, Sexo feminino, 30 a 59 anos, Morador não sabe ler e escrever;Pessoa responsável pelo domicílio, Sexo feminino, 60 anos ou mais, Morador sabe ler e escrever;Pessoa responsável pelo domicílio, Sexo feminino, 60 anos ou mais, Morador não sabe ler e escrever
+Saúde;1;1;PORTUARIA;1;I Portuária;Centro;1.1;Área de Planejamento 1;1;30;0;195;0;127;3
+Gamboa;2;2;PORTUARIA;1;I Portuária;Centro;1.1;Área de Planejamento 1;1;462;0;1564;65;578;60
+Santo Cristo;3;3;PORTUARIA;1;I Portuária;Centro;1.1;Área de Planejamento 1;1;352;0;1179;18;649;33
+Caju;4;4;PORTUARIA;1;I Portuária;Centro;1.1;Área de Planejamento 1;1;904;0;3342;228;943;260
+Centro;5;5;CENTRO;2;II Centro;Centro;1.1;Área de Planejamento 1;1;719;0;3276;8;2775;33
+Catumbi;6;6;RIO COMPRIDO;3;III Rio Comprido;Centro;1.1;Área de Planejamento 1;1;413;0;1515;32;774;71
+Rio Comprido;7;7;RIO COMPRIDO;3;III Rio Comprido;Centro;1.1;Área de Planejamento 1;1;1152;0;5091;21;2783;65
+Cidade Nova;8;8;RIO COMPRIDO;3;III Rio Comprido;Centro;1.1;Área de Planejamento 1;1;145;0;554;3;325;26
+Estácio;9;9;RIO COMPRIDO;3;III Rio Comprido;Centro;1.1;Área de Planejamento 1;1;671;0;2785;20;1278;32
+Imperial de São Cristóvão;10;10;SAO CRISTOVAO;7;VII São Cristóvão;Centro;1.1;Área de Planejamento 1;1;581;0;3062;58;1774;71
+Mangueira;11;11;SAO CRISTOVAO;7;VII São Cristóvão;Centro;1.1;Área de Planejamento 1;1;752;3;2634;64;939;120
+Benfica;12;12;SAO CRISTOVAO;7;VII São Cristóvão;Centro;1.1;Área de Planejamento 1;1;557;0;2571;52;1288;106
+Paquetá;13;13;PAQUETA;21;XXI Paquetá;Centro;1.1;Área de Planejamento 1;1;45;0;333;0;421;7
+Santa Teresa;14;14;SANTA TEREZA;23;XXIII Santa Teresa;Centro;1.1;Área de Planejamento 1;1;1121;0;4973;63;2572;106
+Flamengo;15;15;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;981;0;5470;0;5743;0
+Glória;16;16;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;241;0;1081;0;907;8
+Laranjeiras;17;17;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;597;0;4904;12;4581;8
+Catete;18;18;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;669;0;3118;26;2350;38
+Cosme Velho;19;19;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;105;0;781;6;526;17
+Botafogo;20;20;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;1851;0;9816;34;7596;65
+Humaitá;21;21;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;168;0;1606;0;1592;0
+Urca;22;22;BOTAFOGO;4;IV Botafogo;Zona Sul;2.1;Área de Planejamento 2;2;57;0;424;0;433;0
+Leme;23;23;COPACABANA;5;V Copacabana;Zona Sul;2.1;Área de Planejamento 2;2;264;3;1497;0;1473;6
+Copacabana;24;24;COPACABANA;5;V Copacabana;Zona Sul;2.1;Área de Planejamento 2;2;2995;0;15544;75;17288;75
+Ipanema;25;25;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;548;0;4068;3;4673;21
+Leblon;26;26;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;449;0;4078;0;5080;0
+Lagoa;27;27;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;99;0;1811;0;1995;6
+Jardim Botânico;28;28;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;211;0;1877;0;1771;3
+Gávea;29;29;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;239;0;1698;8;1681;10
+Vidigal;30;30;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;558;0;1932;53;685;132
+São Conrado;31;31;LAGOA;6;VI Lagoa;Zona Sul;2.1;Área de Planejamento 2;2;89;0;926;0;881;5
+Praça da Bandeira;32;32;TIJUCA;8;VIII Tijuca;Tijuca;2.2;Área de Planejamento 2;2;129;0;882;4;767;0
+Tijuca;33;33;TIJUCA;8;VIII Tijuca;Tijuca;2.2;Área de Planejamento 2;2;2464;0;15563;95;15741;158
+Alto da Boa Vista;34;34;TIJUCA;8;VIII Tijuca;Tijuca;2.2;Área de Planejamento 2;2;204;0;984;3;752;21
+Maracanã;35;35;VILA ISABEL;9;IX Vila Isabel;Tijuca;2.2;Área de Planejamento 2;2;402;5;2659;3;2467;0
+Vila Isabel;36;36;VILA ISABEL;9;IX Vila Isabel;Tijuca;2.2;Área de Planejamento 2;2;1294;0;7619;59;6924;131
+Andaraí;37;37;VILA ISABEL;9;IX Vila Isabel;Tijuca;2.2;Área de Planejamento 2;2;739;0;4083;45;3600;79
+Grajaú;38;38;VILA ISABEL;9;IX Vila Isabel;Tijuca;2.2;Área de Planejamento 2;2;492;0;3704;21;3388;47
+Manguinhos;39;39;RAMOS;10;X Ramos;Ramos;3.1;Área de Planejamento 3;3;1187;0;3494;184;1188;268
+Bonsucesso;40;40;RAMOS;10;X Ramos;Ramos;3.1;Área de Planejamento 3;3;293;0;1857;8;1383;28
+Ramos;41;41;RAMOS;10;X Ramos;Ramos;3.1;Área de Planejamento 3;3;599;0;3685;27;2942;81
+Olaria;42;42;RAMOS;10;X Ramos;Ramos;3.1;Área de Planejamento 3;3;941;4;5688;46;4571;127
+Penha;43;43;PENHA;11;XI Penha;Penha;3.5;Área de Planejamento 3;3;1328;0;6473;34;4440;118
+Penha Circular;44;44;PENHA;11;XI Penha;Penha;3.5;Área de Planejamento 3;3;660;0;4108;27;3112;64
+Brás de Pina;45;45;PENHA;11;XI Penha;Penha;3.5;Área de Planejamento 3;3;847;0;4353;18;2971;96
+Cordovil;46;46;VIGARIO GERAL;31;XXXI Vigário Geral;Penha;3.5;Área de Planejamento 3;3;826;0;3772;18;2477;94
+Parada de Lucas;47;47;VIGARIO GERAL;31;XXXI Vigário Geral;Penha;3.5;Área de Planejamento 3;3;591;0;2410;38;1194;66
+Vigário Geral;48;48;VIGARIO GERAL;31;XXXI Vigário Geral;Penha;3.5;Área de Planejamento 3;3;1057;0;4032;83;2071;157
+Jardim América;49;49;VIGARIO GERAL;31;XXXI Vigário Geral;Penha;3.5;Área de Planejamento 3;3;436;0;2392;9;1674;47
+Higienópolis;50;50;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;240;0;1561;0;1160;17
+Jacaré;51;51;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;220;0;912;24;481;36
+Maria da Graça;52;52;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;127;0;739;0;605;0
+Del Castilho;53;53;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;420;0;2203;24;1134;43
+Inhaúma;54;54;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;813;0;4129;45;2828;120
+Engenho da Rainha;55;55;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;546;0;2976;17;1961;57
+Tomás Coelho;56;56;INHAUMA;12;XII Inhaúma;Inhaúma;3.4;Área de Planejamento 3;3;585;0;2477;27;1349;59
+São Francisco Xavier;57;57;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;176;0;847;4;457;6
+Rocha;58;58;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;476;0;1929;68;939;66
+Riachuelo;59;59;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;155;0;1176;0;1105;3
+Sampaio;60;60;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;220;0;967;34;535;44
+Engenho Novo;61;61;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;827;0;4571;51;2909;115
+Lins de Vasconcelos;62;62;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;688;0;3384;42;2340;52
+Méier;63;63;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;435;0;4384;0;5301;0
+Todos os Santos;64;64;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;297;0;2646;0;2225;3
+Cachambi;65;65;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;671;0;4833;3;3616;10
+Engenho de Dentro;66;66;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;795;0;4806;37;3841;130
+Água Santa;67;67;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;134;0;796;0;523;10
+Encantado;68;68;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;213;0;1388;3;1101;24
+Piedade;69;69;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;772;0;4486;25;3181;65
+Abolição;70;70;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;131;0;1053;0;912;6
+Pilares;71;71;MEIER;13;XIII Méier;Méier;3.2;Área de Planejamento 3;3;435;0;2627;29;2070;67
+Vila Kosmos;72;72;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;311;0;1614;0;1277;5
+Vicente de Carvalho;73;73;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;489;0;2368;38;1432;95
+Vila da Penha;74;74;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;246;0;2507;3;2380;6
+Vista Alegre;75;75;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;313;0;1905;0;1424;16
+Irajá;76;76;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;1273;0;9502;7;7828;99
+Colégio;77;77;IRAJA;14;XIV Irajá;Madureira;3.3;Área de Planejamento 3;3;729;0;2971;25;1708;106
+Campinho;78;78;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;132;0;935;3;766;13
+Quintino Bocaiúva;79;79;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;369;0;2615;0;2206;42
+Cavalcanti;80;80;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;274;0;1677;13;882;26
+Engenheiro Leal;81;81;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;106;0;498;0;261;24
+Cascadura;82;82;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;555;0;3102;14;2074;47
+Madureira;83;83;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;807;3;4343;21;3376;82
+Vaz Lobo;84;84;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;228;0;1236;3;861;18
+Turiaçú;85;85;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;223;0;1315;0;880;36
+Rocha Miranda;86;86;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;662;0;3987;19;2960;61
+Honório Gurgel;87;87;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;376;0;1983;7;1367;32
+Osvaldo Cruz;88;88;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;496;0;3191;0;2822;31
+Bento Ribeiro;89;89;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;606;0;3884;0;3364;33
+Marechal Hermes;90;90;MADUREIRA;15;XV Madureira;Madureira;3.3;Área de Planejamento 3;3;807;3;4319;46;3306;121
+Ribeira;91;91;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;59;0;380;0;339;0
+Zumbi;92;92;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;25;0;168;0;167;0
+Cacuia;93;93;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;169;0;1109;3;781;36
+Pitangueiras;94;94;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;207;0;1162;23;660;67
+Praia da Bandeira;95;95;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;65;0;577;0;406;0
+Cocotá;96;96;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;92;0;562;0;434;0
+Bancários;97;97;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;352;0;1248;17;687;49
+Freguesia (Ilha);98;98;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;382;0;1695;4;1019;45
+Jardim Guanabara;99;99;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;276;0;2521;0;2179;16
+Jardim Carioca;100;100;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;396;0;2268;17;1471;62
+Tauá;101;101;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;658;0;3157;29;1729;111
+Moneró;102;102;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;86;0;523;0;504;0
+Portuguesa;103;103;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;429;0;2133;15;1717;30
+Galeão;104;104;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;584;0;2397;40;824;82
+Cidade Universitária;105;105;ILHA DO GOVERNADOR;20;XX Ilha do Governador;Ilha do Governador;3.7;Área de Planejamento 3;3;23;0;100;0;56;4
+Guadalupe;106;106;ANCHIETA;22;XXII Anchieta;Pavuna;3.6;Área de Planejamento 3;3;939;0;4780;16;3173;61
+Anchieta;107;107;ANCHIETA;22;XXII Anchieta;Pavuna;3.6;Área de Planejamento 3;3;1184;0;5873;26;3195;134
+Parque Anchieta;108;108;ANCHIETA;22;XXII Anchieta;Pavuna;3.6;Área de Planejamento 3;3;314;0;2153;0;1570;49
+Ricardo de Albuquerque;109;109;ANCHIETA;22;XXII Anchieta;Pavuna;3.6;Área de Planejamento 3;3;549;0;2944;3;1725;72
+Coelho Neto;110;110;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;624;0;3188;6;2152;29
+Acari;111;111;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;1288;0;3680;112;993;170
+Barros Filho;112;112;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;705;0;2565;41;959;110
+Costa Barros;113;113;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;990;0;3094;120;1251;144
+Pavuna;114;114;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;2836;9;11130;137;5586;249
+Jacarepaguá;115;115;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;6703;15;22511;734;6480;673
+Anil;116;116;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;525;0;3478;15;1946;43
+Gardênia Azul;117;117;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;831;10;2473;130;779;137
+Cidade de Deus;118;118;CIDADE DE DEUS;34;XXXIV Cidade de Deus;Jacarepaguá;4.1;Área de Planejamento 4;4;1008;0;3692;30;1752;212
+Curicica;119;119;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;716;0;3354;9;1764;51
+Freguesia (Jacarepaguá);120;120;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;1059;3;8261;46;5597;78
+Pechincha;121;121;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;530;0;4547;3;3125;28
+Taquara;122;122;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;1947;3;12335;39;8099;125
+Tanque;123;123;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;819;0;4133;34;2591;71
+Praça Seca;124;124;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;1395;0;6849;75;4377;157
+Vila Valqueire;125;125;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;450;0;3304;16;2551;30
+Joá;126;126;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;17;0;89;0;64;0
+Itanhangá;127;127;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;2841;10;8733;315;1714;208
+Barra da Tijuca;128;128;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;1316;0;14946;0;11889;4
+Camorim;129;129;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;41;0;154;6;35;5
+Vargem Pequena;130;130;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;850;0;3662;93;1134;113
+Vargem Grande;131;131;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;475;0;2473;42;865;77
+Recreio dos Bandeirantes;132;132;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;3694;0;16812;68;7090;71
+Grumari;133;133;BARRA DA TIJUCA;24;XXIV Barra da Tijuca;Barra da Tijuca;4.2;Área de Planejamento 4;4;4;0;21;0;0;0
+Deodoro;134;134;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;218;0;1003;3;667;44
+Vila Militar;135;135;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;167;0;1189;0;792;25
+Campo dos Afonsos;136;136;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;10;0;180;0;15;0
+Jardim Sulacap;137;137;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;210;0;1518;0;908;8
+Magalhães Bastos;138;138;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;330;0;2233;4;1639;77
+Realengo;139;139;REALENGO;33;XXXIII Realengo;Bangu;5.1;Área de Planejamento 5;5;3504;0;18686;119;11784;480
+Padre Miguel;140;140;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;791;0;6250;21;3908;106
+Bangu;141;141;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;4450;0;23204;115;13029;567
+Senador Camará;142;142;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;2819;0;12692;165;5764;560
+Santíssimo;143;143;CAMPO GRANDE;18;XVIII Campo Grande;Campo Grande;5.2;Área de Planejamento 5;5;1077;4;5375;38;2440;112
+Campo Grande;144;144;CAMPO GRANDE;18;XVIII Campo Grande;Campo Grande;5.2;Área de Planejamento 5;5;6156;0;37734;171;21410;717
+Senador Vasconcelos;145;145;CAMPO GRANDE;18;XVIII Campo Grande;Campo Grande;5.2;Área de Planejamento 5;5;616;0;3289;22;1934;97
+Inhoaíba;146;146;CAMPO GRANDE;18;XVIII Campo Grande;Campo Grande;5.2;Área de Planejamento 5;5;1656;0;8032;83;3292;311
+Cosmos;147;147;CAMPO GRANDE;18;XVIII Campo Grande;Campo Grande;5.2;Área de Planejamento 5;5;2463;0;11154;67;4511;388
+Paciência;148;148;SANTA CRUZ;19;XIX Santa Cruz;Santa Cruz;5.3;Área de Planejamento 5;5;2586;0;12010;120;5374;430
+Santa Cruz;149;149;SANTA CRUZ;19;XIX Santa Cruz;Santa Cruz;5.3;Área de Planejamento 5;5;6948;0;28206;437;11510;1076
+Sepetiba;150;150;SANTA CRUZ;19;XIX Santa Cruz;Santa Cruz;5.3;Área de Planejamento 5;5;1483;0;6601;90;3168;201
+Guaratiba;151;151;GUARATIBA;26;XXVI Guaratiba;Guaratiba;5.4;Área de Planejamento 5;5;4144;4;17339;405;5844;580
+Barra de Guaratiba;152;152;GUARATIBA;26;XXVI Guaratiba;Guaratiba;5.4;Área de Planejamento 5;5;56;0;495;10;261;18
+Pedra de Guaratiba;153;153;GUARATIBA;26;XXVI Guaratiba;Guaratiba;5.4;Área de Planejamento 5;5;179;0;1275;7;861;30
+Rocinha;154;154;ROCINHA;27;XXVII Rocinha;Zona Sul;2.1;Área de Planejamento 2;2;3423;3;9496;484;2222;570
+Jacarezinho;155;155;JACAREZINHO;28;XXVIII Jacarezinho;Méier;3.2;Área de Planejamento 3;3;1569;0;4153;115;1550;234
+Complexo do Alemão;156;156;COMPLEXO DO ALEMÃO;29;XXIX Complexo do Alemão;Inhaúma;3.4;Área de Planejamento 3;3;2016;0;6679;261;2257;561
+Maré;157;157;COMPLEXO DA MARE;30;XXX Maré;Ramos;3.1;Área de Planejamento 3;3;4929;6;15720;704;4229;1095
+Vasco da Gama;158;158;SAO CRISTOVAO;7;VII São Cristóvão;Centro;1.1;Área de Planejamento 1;1;417;0;1894;67;872;71
+Parque Colúmbia;159;159;PAVUNA;25;XXV Pavuna;Pavuna;3.6;Área de Planejamento 3;3;154;0;840;21;422;30
+Gericinó;160;160;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;101;0;339;9;73;3
+Lapa;161;161;CENTRO;2;II Centro;Centro;1.1;Área de Planejamento 1;1;326;0;1379;4;980;3
+Vila Kennedy;162;162;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;612;0;2626;18;1374;63
+Jabour;163;163;BANGU;17;XVII Bangu;Bangu;5.1;Área de Planejamento 5;5;56;0;592;0;548;7
+Ilha de Guaratiba;164;164;GUARATIBA;26;XXVI Guaratiba;Guaratiba;5.4;Área de Planejamento 5;5;102;0;557;0;208;6
+Barra Olímpica;165;165;JACAREPAGUA;16;XVI Jacarepaguá;Jacarepaguá;4.1;Área de Planejamento 4;4;1034;0;7165;39;2773;14
+Argentino;166;166;PENHA;11;XI Penha;Penha;3.5;Área de Planejamento 3;3;10;0;88;0;53;0
